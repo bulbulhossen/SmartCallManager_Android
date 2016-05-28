@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bulbul-ulab/Desktop/AutoCall/SmartCallManager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6451e2522819630f05315248f8558c05a3424923">
+        <dex dex="/home/bulbul-ulab/Desktop/AutoCall/SmartCallManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a2900524d082d4cfb716b4b31d84802d9f0c8dc7/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbul-ulab/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/bulbul-ulab/Desktop/AutoCall/SmartCallManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c37cd5d6dfef331493f96d438a43660ba59ea47b/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbul-ulab/Desktop/AutoCall/SmartCallManager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="908c7da839b436acaa1414e16c9162cc103a90d3">
+        <dex dex="/home/bulbul-ulab/Desktop/AutoCall/SmartCallManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e21c71ceb8d5d0e304040ac31861279ee3536036/classes.dex" />
+    </item>
+
+</items>
